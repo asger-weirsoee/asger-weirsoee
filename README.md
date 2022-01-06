@@ -2,6 +2,9 @@
 
 ### General Kenobi
 
+
+![Asger's GitHub stats](https://github-readme-stats.vercel.app/api?username=asger-weirsoee&show_icons=true&theme=radical)
+
 <!--
 **asger-weirsoee/asger-weirsoee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,6 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asger-weirsoee&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asger-weirsoee&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asger-weirsoee&layout=compact&theme=radical" />
 </a>
 

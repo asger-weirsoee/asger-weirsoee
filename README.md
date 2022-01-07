@@ -8,7 +8,7 @@
 <a style="margin-right: 30px;" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asger-weirsoee&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asger-weirsoee&layout=compact&theme=radical" />
 </a>
 
